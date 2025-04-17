@@ -18,6 +18,11 @@ I am currently a final year PhD student at the Australian National University un
 4. Descent and generation for noncommutative coherent algebras over schemes, with [Timothy De Deyn](https://tdedeyn.github.io/) and [Pat Lank](https://patlank.com/). Preprint avaliable at [arXiv:2410.01785](https://arxiv.org/abs/2410.01785).
 5. Integral transforms on singularity categories for Noetherian schemes, with [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home) and [Pat Lank](https://patlank.com/). Preprint avaliable at [arXiv:2501.13834](https://arxiv.org/abs/2501.13834).
 6. Descending strong generation in algebraic geometry, with [Timothy De Deyn](https://tdedeyn.github.io/) and [Pat Lank](https://patlank.com/). Preprint avaliable at [arXiv:2502.08629](https://arxiv.org/abs/2502.08629).
+7. Regularity and bounded t-structures for algebraic stacks, with [Timothy De Deyn](https://tdedeyn.github.io/), [Pat Lank](https://patlank.com/), and [Fei Peng](https://au.linkedin.com/in/fei-peng-02762a1b9). Preprint avaliable at [arXiv:2504.02813](https://arxiv.org/abs/2504.02813).
+8. Representability theorems via metric techniques. Preprint avaliable at [arXiv:2504.11768](https://arxiv.org/abs2504.11768).
+9. Admissible subcategories and metric techniques. Preprint avaliable at [arXiv:2504.11772](https://arxiv.org/abs2504.11772).
+
+
 
 ### Conferences/Summer schools/masterclasses attended
 1. Geometric aspects of algebraic varieties, IISER Mohali, 17-19 March 2025
