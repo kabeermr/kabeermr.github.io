@@ -8,7 +8,7 @@
 
 
 
-I am currently a final year PhD student at the Australian National University under the supervision of [Amnon Neeman](https://maths.anu.edu.au/people/amnon-neeman). Most of my research is on derived and triangulated categories in the context of algebraic geometry. Recently, I have been working with derived categories arising in noncommutative algebraic geometry too.
+I did my PhD at the Australian National University under the supervision of [Amnon Neeman](https://maths.anu.edu.au/people/amnon-neeman). Most of my research is on derived and triangulated categories in the context of algebraic geometry. Recently, I have been working with derived categories arising in noncommutative algebraic geometry too.
 
 
 ### Papers/Preprints
@@ -19,19 +19,19 @@ I am currently a final year PhD student at the Australian National University un
 5. Integral transforms on singularity categories for Noetherian schemes, with [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home) and [Pat Lank](https://patlank.com/). Preprint avaliable at [arXiv:2501.13834](https://arxiv.org/abs/2501.13834).
 6. Descending strong generation in algebraic geometry, with [Timothy De Deyn](https://tdedeyn.github.io/) and [Pat Lank](https://patlank.com/). Preprint avaliable at [arXiv:2502.08629](https://arxiv.org/abs/2502.08629).
 7. Regularity and bounded t-structures for algebraic stacks, with [Timothy De Deyn](https://tdedeyn.github.io/), [Pat Lank](https://patlank.com/), and [Fei Peng](https://au.linkedin.com/in/fei-peng-02762a1b9). Preprint avaliable at [arXiv:2504.02813](https://arxiv.org/abs/2504.02813).
-8. Representability theorems via metric techniques. Preprint avaliable at [arXiv:2504.11768](https://arxiv.org/abs2504.11768).
-9. Admissible subcategories and metric techniques. Preprint avaliable at [arXiv:2504.11772](https://arxiv.org/abs2504.11772).
-
+8. Representability theorems via metric techniques. Preprint avaliable at [arXiv:2504.11768](https://arxiv.org/abs/2504.11768).
+9. Admissible subcategories and metric techniques. Preprint avaliable at [arXiv:2504.11772](https://arxiv.org/abs/2504.11772).
 
 
 ### Conferences/Summer schools/masterclasses attended
 1. Geometric aspects of algebraic varieties, IISER Mohali, 17-19 March 2025
-2. Masterclass on Derived Category Methods in Ring Theory. Aarhus University, 13-16 August 2024.
-3. Summer School on Interactions between Algebra, Equivariance, and Homotopy Theory. Universität Regensburg, 24-28 June 2024.
-4. Purity, Approximation Theory and Spectra. Cetraro, 13-17 May 2024.
-5. Workshop on Finitistic Dimensions. Universität Bielefeld, 15-16 June 2023.  
-6. Categories, clusters, and completions master class. Aarhus University, 22-24 March 2023.
-7. Tensor Categories in Sydney. University of Sydney, 28 Nov-2nd Dec 2022.
+2. Tale of Geometries, Université libre de Bruxelles, 28-30 October 2024
+3. Masterclass on Derived Category Methods in Ring Theory. Aarhus University, 13-16 August 2024.
+4. Summer School on Interactions between Algebra, Equivariance, and Homotopy Theory. Universität Regensburg, 24-28 June 2024.
+5. Purity, Approximation Theory and Spectra. Cetraro, 13-17 May 2024.
+6. Workshop on Finitistic Dimensions. Universität Bielefeld, 15-16 June 2023.  
+7. Categories, clusters, and completions master class. Aarhus University, 22-24 March 2023.
+8. Tensor Categories in Sydney. University of Sydney, 28 Nov-2nd Dec 2022.
 
 
 Photo by: Rudradip Biswas
