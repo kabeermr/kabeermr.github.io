@@ -8,7 +8,7 @@
 
 
 
-I did my PhD at the Australian National University under the supervision of [Amnon Neeman](https://maths.anu.edu.au/people/amnon-neeman). Most of my research is on derived and triangulated categories in the context of algebraic geometry. Recently, I have been working with derived categories arising in noncommutative algebraic geometry too.
+I am currently a postdoc at Bonn where my mentor is [Daniel Huybrechts](https://www.math.uni-bonn.de/~huybrech/). Before that, I did my PhD at the Australian National University under the supervision of [Amnon Neeman](https://maths.anu.edu.au/people/amnon-neeman). Most of my research is on derived and triangulated categories in the context of algebraic geometry. Recently, I have been working with derived categories arising in noncommutative algebraic geometry too.
 
 
 ### Papers/Preprints
@@ -33,5 +33,6 @@ I did my PhD at the Australian National University under the supervision of [Amn
 7. Categories, clusters, and completions master class. Aarhus University, 22-24 March 2023.
 8. Tensor Categories in Sydney. University of Sydney, 28 Nov-2nd Dec 2022.
 
+Email: kabeermr "dot" maths "at" gmail "dot" com
 
 Photo by: Rudradip Biswas
