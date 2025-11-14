@@ -21,6 +21,9 @@ I am currently a postdoc at Bonn where my mentor is [Daniel Huybrechts](https://
 7. Regularity and bounded t-structures for algebraic stacks, with [Timothy De Deyn](https://tdedeyn.github.io/), [Pat Lank](https://patlank.com/), and [Fei Peng](https://au.linkedin.com/in/fei-peng-02762a1b9). Preprint avaliable at [arXiv:2504.02813](https://arxiv.org/abs/2504.02813).
 8. Representability theorems via metric techniques. Preprint avaliable at [arXiv:2504.11768](https://arxiv.org/abs/2504.11768).
 9. Admissible subcategories and metric techniques. Preprint avaliable at [arXiv:2504.11772](https://arxiv.org/abs/2504.11772).
+10. Quasi-perfect blowups detect regularity, with [Timothy De Deyn](https://tdedeyn.github.io/) and [Pat Lank](https://patlank.com/). Preprint avaliable at [arXiv:2508.10845](https://arxiv.org/abs/2508.10845).
+11. Measuring birational derived splinters, with [Timothy De Deyn](https://tdedeyn.github.io/), [Pat Lank](https://patlank.com/), and [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh). Preprint avaliable at [arXiv:2510.26648](https://arxiv.org/abs/2510.26648).
+12. Nonexistence of singly compactly generated t-structures for schemes, with [Anirban Bhaduri](https://anirbanbhaduri.com/), [Timothy De Deyn](https://tdedeyn.github.io/), [Pat Lank](https://patlank.com/), and [Michal Hrbek](https://sites.google.com/view/michalhrbek/home). Preprint avaliable at [arXiv:2511.01622](https://arxiv.org/abs/2511.01622).
 
 
 ### Conferences/Summer schools/masterclasses attended
