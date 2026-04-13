@@ -30,7 +30,7 @@ In May-June 2026, I will give a mini-course on metric techniques for triangulate
 * Admissible subcategories and metric techniques. Available [here](MetricsAdmissible.pdf). Outdated version at [arXiv:2504.11772](https://arxiv.org/abs/2504.11772). 
 * Quasi-perfect blowups detect regularity, with [Timothy De Deyn](https://tdedeyn.github.io/) and [Pat Lank](https://patlank.com/). Preprint avaliable at [arXiv:2508.10845](https://arxiv.org/abs/2508.10845). 
 * Nonexistence of singly compactly generated t-structures for schemes, with [Anirban Bhaduri](https://anirbanbhaduri.com/), [Timothy De Deyn](https://tdedeyn.github.io/), [Pat Lank](https://patlank.com/), and [Michal Hrbek](https://sites.google.com/view/michalhrbek/home). Preprint avaliable at [arXiv:2511.01622](https://arxiv.org/abs/2511.01622).
-* Coherent sheaves in logarithmic geometry, with [Hannah Dell](https://www.hannahdell.me/), [Xianyu Hu](https://www.math.cit.tum.de/en/algebra/personen/xianyu-hu/), [Patrick Kennedy-Hunt](https://www.patrickkennedyhunt.com/), and [Maximilian Schimpf](https://sites.google.com/view/max-schimpf).
+* Coherent sheaves in logarithmic geometry, with [Hannah Dell](https://www.hannahdell.me/), [Xianyu Hu](https://www.math.cit.tum.de/en/algebra/personen/xianyu-hu/), [Patrick Kennedy-Hunt](https://www.patrickkennedyhunt.com/), and [Maximilian Schimpf](https://sites.google.com/view/max-schimpf). Preprint available at [arXiv:2604.05053](https://arxiv.org/abs/2604.05053).
 
 
 ### Conferences/Summer schools/masterclasses attended
