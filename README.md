@@ -10,7 +10,7 @@
 
 I am currently a postdoc at Bonn where my mentor is [Daniel Huybrechts](https://www.math.uni-bonn.de/~huybrech/). Before that, I did my PhD at the Australian National University under the supervision of [Amnon Neeman](https://maths.anu.edu.au/people/amnon-neeman). Most of my research is on derived and triangulated categories in the context of algebraic geometry. 
 
-In May-June 2026, I will give a mini-course on metric techniques for triangulated categories. You can find the course outline [here](CourseOutline.pdf).
+I will give a mini-course on approximability and metric techniques for triangulated categories on Wedensdays at 2pm at the MPIM Seminar Hall starting on the 6th of May. You can find the course outline [here](CourseOutline.pdf).
 ### Research
 
 #### Accepted/Published work
