@@ -8,9 +8,8 @@
 
 
 
-I am currently a postdoc at Bonn where my mentor is [Daniel Huybrechts](https://www.math.uni-bonn.de/~huybrech/). Before that, I did my PhD at the Australian National University under the supervision of [Amnon Neeman](https://maths.anu.edu.au/people/amnon-neeman). Most of my research is on derived and triangulated categories in the context of algebraic geometry. 
+I will be joining Charles University as a postdoc where my mentor will be [Jan Šťovíček](https://www.karlin.mff.cuni.cz/~stovicek/). Before this I was a postdoc at MPIM Bonn for a year where my mentor was [Daniel Huybrechts](https://www.math.uni-bonn.de/~huybrech/). Before that, I did my PhD at the Australian National University under the supervision of [Amnon Neeman](https://maths.anu.edu.au/people/amnon-neeman). Most of my research is on derived and triangulated categories in the context of algebraic geometry. 
 
-I am currently giving a mini-course on approximability and metric techniques for triangulated categories on Wedensdays at 2pm at the MPIM Seminar Hall. You can find the course outline [here](CourseOutline.pdf) and the course notes [here](CourseNotes.pdf).
 ### Research
 
 #### Accepted/Published work
@@ -44,6 +43,9 @@ I am currently giving a mini-course on approximability and metric techniques for
 * Workshop on Finitistic Dimensions. Universität Bielefeld, 15-16 June 2023.  
 * Categories, clusters, and completions master class. Aarhus University, 22-24 March 2023.
 * Tensor Categories in Sydney. University of Sydney, 28 Nov-2nd Dec 2022.
+
+
+I taught a mini-course on approximability and metric techniques for triangulated categories at MPIM. You can find the course outline [here](CourseOutline.pdf) and partial course notes [here](CourseNotes.pdf) which I am planning on completing at some point in the future.
 
 Email: kabeermr "dot" maths "at" gmail "dot" com
 
